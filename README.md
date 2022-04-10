@@ -2,6 +2,8 @@
 
 Java/Angular application build for an online Gaming Mice shop, created for learning purpose. Create Users, Manage Products, Login/Register - in work
 
+This project represents the backend for MouseNest (https://github.com/moisalucian/MouseNest---Frontend)
+
 ## Functionalities to be added
 
 - [ ] Login/Register
